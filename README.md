@@ -4,10 +4,7 @@ Contact Information:
 Md Taqi Tahmid Hussain
 Mdtaqitahmid.Hussain18@bcmail.cuny.edu
 
-Supervisor:
-Salman Ahmed
-salman.ahmed@mtahq.org
-There is another intern with me in our team. 
+
 Abstract:
 The HR Operations and Analytics - Workforce Planning and Position Management team at the MTA is tasked with preparing forecasting and analysis for various MTA agencies. This involves implementing an enterprise-wide recruitment strategy to address the expansive demands to fill vacant positions across the MTA agencies. The team collaborates with MTA agencies and other members of the People Department to design and implement a standardized workforce planning process that aligns hiring plans with the MTA’s strategic goals and Talent Acquisition’s recruitment efforts.
 
